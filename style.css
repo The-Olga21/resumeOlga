@@ -72,10 +72,9 @@ h3 {
 }
 
 .card {
-    padding-left: 15px;
     border-radius: 10px;
     padding: 15px 20px;
-    margin: 20px;
+    margin-bottom: 20px;
 }
 
 .bg-green {
@@ -160,7 +159,7 @@ h3 {
     margin-right: 0;
 }
 
-@media(max-width:665px) {
+@media(max-width:674px) {
     .form-row {
         display: block;
     }
